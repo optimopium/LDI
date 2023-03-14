@@ -1,5 +1,5 @@
 # LDI
-Based on the assignment text, I have made the following assumptions:
+To create language identification module, I have made the following assumptions:
 
 Document is monolingual.
 Document doesn't have code-switching and code-mixing.
